@@ -1,0 +1,14 @@
+Leitura: R ou H
+Escrita: W
+Zerar: Z
+Complemento: C
+Incremento: I
+
+Read= ler                                                 11010 (26)
+Write= escrever                                            1110 (13)
+-------------------------------------------------------------------------
+
+Prova: A=B-C-D  
+ 
+       
+
