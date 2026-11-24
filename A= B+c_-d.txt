@@ -1,0 +1,2 @@
+A= B+c_-d
+prova transformar para n binário e binario
